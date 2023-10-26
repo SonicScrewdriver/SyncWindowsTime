@@ -1,0 +1,14 @@
+D:\dev\SyncWindowsTime\bin\Debug\net7.0\SyncWindowsTime.exe
+D:\dev\SyncWindowsTime\bin\Debug\net7.0\SyncWindowsTime.deps.json
+D:\dev\SyncWindowsTime\bin\Debug\net7.0\SyncWindowsTime.runtimeconfig.json
+D:\dev\SyncWindowsTime\bin\Debug\net7.0\SyncWindowsTime.dll
+D:\dev\SyncWindowsTime\bin\Debug\net7.0\SyncWindowsTime.pdb
+D:\dev\SyncWindowsTime\obj\Debug\net7.0\SyncWindowsTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\SyncWindowsTime\obj\Debug\net7.0\SyncWindowsTime.AssemblyInfoInputs.cache
+D:\dev\SyncWindowsTime\obj\Debug\net7.0\SyncWindowsTime.AssemblyInfo.cs
+D:\dev\SyncWindowsTime\obj\Debug\net7.0\SyncWindowsTime.csproj.CoreCompileInputs.cache
+D:\dev\SyncWindowsTime\obj\Debug\net7.0\SyncWindowsTime.dll
+D:\dev\SyncWindowsTime\obj\Debug\net7.0\refint\SyncWindowsTime.dll
+D:\dev\SyncWindowsTime\obj\Debug\net7.0\SyncWindowsTime.pdb
+D:\dev\SyncWindowsTime\obj\Debug\net7.0\SyncWindowsTime.genruntimeconfig.cache
+D:\dev\SyncWindowsTime\obj\Debug\net7.0\ref\SyncWindowsTime.dll

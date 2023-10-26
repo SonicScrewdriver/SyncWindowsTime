@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ySzGFEbMURHv15mWitApI/e8Zu5m3r2rABcbZ94EsvHPdo8QsKMB69gkff7cU/NRQBPL/YS/AcDnlE3Z9mXqrw==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\SyncWindowsTime\\SyncWindowsTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarah\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.10\\microsoft.netcore.app.runtime.win-x64.7.0.10.nupkg.sha512",
+    "C:\\Users\\sarah\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.10.nupkg.sha512",
+    "C:\\Users\\sarah\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.10\\microsoft.aspnetcore.app.runtime.win-x64.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
